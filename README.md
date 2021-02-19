@@ -3,9 +3,11 @@
 Step 1: Verify Node and Npm version 
 
 *For Node 
+
 node -v
 
 *For NPM
+
 npm -v 
 
 
